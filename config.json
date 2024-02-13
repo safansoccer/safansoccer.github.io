@@ -7,7 +7,7 @@
 "updateSize": "6.07",
 "update_web": "https://www.soccerytv.com/",
 "live_score": "https://www.cricbuzz.com/",
-"blocked":"India",
+"blocked":"",
 "football_url":"https://www.fotmob.com",
 "is_show_unity_ad": "false",
 "is_show_start_ad": "false",
@@ -28,9 +28,9 @@
 
 "showDialog":true,
 "cancel":1,
-"dialogTitle":"v1.3 Closed",
-"dialogMessage":"Soccery TV Previous v1.3 has been closed permanently. Uninstall the old app version. Only use the latest v2.0.",
-"dialogButton":"Join us on Telegram!",
+"dialogTitle":"Join us on Telegram",
+"dialogMessage":"To get latest update of Soccery TV app, join our Telegram channel.",
+"dialogButton":"Join Now!",
 "dialog":"https://t.me/soccerytv"
 
 }
